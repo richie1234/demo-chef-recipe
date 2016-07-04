@@ -1,0 +1,12 @@
+{
+"customer-id": "0123",
+"invoice-number": "9876",
+
+"line-items": {
+"line-1": "tractor",
+"line-2": "passenger car",
+"line-3": "trailer"
+
+
+}
+}
